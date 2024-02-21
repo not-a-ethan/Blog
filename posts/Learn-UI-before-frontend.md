@@ -1,6 +1,6 @@
 ---
 title: 'Learn UI before frontend?'
-date: '2020-01-02'
+date: '2024-02-20'
 ---
 
 I am currently working on a full stack project (a [time tracker](https://github.com/not-a-ethan/time-tracker)).  
